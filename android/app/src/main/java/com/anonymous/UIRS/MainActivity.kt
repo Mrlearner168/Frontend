@@ -1,4 +1,4 @@
-package com.uirs
+package com.anonymous.UIRS
 
 import android.os.Build
 import android.os.Bundle
